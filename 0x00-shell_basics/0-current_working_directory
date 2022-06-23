@@ -1,3 +1,2 @@
 #!/bin/bash
 echo 0-current_working_directory
-full_path=$(realpath $0-current_working_directory)
